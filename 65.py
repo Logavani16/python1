@@ -1,0 +1,2 @@
+vani=input()
+print(vani)
